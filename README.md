@@ -1,6 +1,6 @@
-Copyright 2023 - The LineageOS Project
+Copyright 2025 - The LineageOS Project
 
-Device configuration for Samsung Galaxy S20 5G (SM-G981B).
+Device configuration for Samsung Galaxy S20 4G/5G (SM-G980F - SM-G981B).
 ========================================
 
 Basic   | Specification List
